@@ -1,5 +1,5 @@
 const express = require('express')
-const myCommon = require('pysatellite-common-fun')
+const myCommon = require('qkralsgml-common-fun')
 const app = express()
 const port = 3000
 
