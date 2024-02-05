@@ -1,0 +1,25 @@
+{
+  "name": "qkralsgml-express",
+  "version": "0.1.0",
+  "description": "my js express server",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/qkralsgml78/qkralsgml-express.git"
+  },
+  "keywords": [
+    "js",
+    "qkralsgml",
+    "server",
+    "express"
+  ],
+  "author": "qkralsgml78",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/qkralsgml78/qkralsgml-express/issues"
+  },
+  "homepage": "https://github.com/qkralsgml78/qkralsgml-express#readme"
+}
